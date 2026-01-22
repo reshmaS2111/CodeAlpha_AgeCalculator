@@ -1,3 +1,5 @@
+![Deploy](https://github.com/reshmaS211/CodeAlpha_AgeCalculator/actions/workflows/pages-build-deployment.yml/badge.svg)
+
 # Age Calculator
 
 This is a simple Age Calculator web application built using HTML, CSS, and JavaScript.
